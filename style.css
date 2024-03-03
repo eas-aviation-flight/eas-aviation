@@ -3867,3 +3867,6 @@
 	color: #fff !important;
 }
 
+#header-style-1 a.navbar-brand {
+	padding-left: 95px !important;
+}
