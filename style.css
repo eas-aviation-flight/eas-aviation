@@ -3861,3 +3861,9 @@
 	.videooverlay .general-title h2 {
 		color:#fff;
 	}
+
+	/** Custom CSS 	**/
+.white-text {
+	color: #fff !important;
+}
+
